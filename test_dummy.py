@@ -2,8 +2,8 @@ print("This is a test dummy, and I am having fun\n")
 print("Adding this line in main dated 30Jan2025")
 
 # Making some modification-1
-x = input("Are you a champion? [y/n]")
-print("Good!") if x == "y" else print("Keep going until you become one")
+x = input("Are you a true champion?")
+print("Good!") if x == "yes" else print("Keep going until you become one")
 
 # Branch-1 modifications
 y = input("Are you consistent? [y/n]")
